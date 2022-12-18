@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "BebasNeu";
+  src: url("./font/BebasNeue-Regular.ttf") format("woff2");
+}
+
+@font-face {
+  font-family: "Mulish";
+  src: url("./font/Mulish-Italic-VariableFont_wght.ttf") format("woff2");
+}
+@font-face {
+  font-family: "NotoSansKR";
+  src: url("./font/NotoSansKR-Bold.otf");
+}
+@font-face {
+  font-family: "NotoSansKR-Light";
+  src: url("./font/NotoSansKR-Light.otf");
+}

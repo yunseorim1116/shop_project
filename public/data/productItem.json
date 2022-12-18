@@ -1,0 +1,101 @@
+[
+  {
+    "productId": 10117,
+    "productName": "Essentials 1977 Hoodie Wheat - 22SS",
+    "ProductName_kr": "에센셜 1977 후드 위트 - 22SS",
+    "imgUrl": "/assets/img/product/1.png",
+    "productPrice": 199000,
+    "productScore": 100
+  },
+  {
+    "productId": 10118,
+    "productName": "Patagonia Classic Retro-X Jacket Natural",
+    "ProductName_kr": "파타고니아 클래식 레트로X 자켓 내츄럴",
+    "imgUrl": "/assets/img/product/2.png",
+    "productPrice": 288800,
+    "productScore": 250
+  },
+  {
+    "productId": 10119,
+    "productName": "Supreme x Stone Island Stripe Hooded Sweatshirt Tan - 22SS",
+    "ProductName_kr": "슈프림 x 스톤 아일랜드 스트라이프 후드 스웨트셔츠 탄 - 22SS",
+    "imgUrl": "/assets/img/product/3.png",
+    "productPrice": 388800,
+    "productScore": 700
+  },
+  {
+    "productId": 10120,
+    "productName": "Puma x AMI Hoodie Light Gray Heather",
+    "ProductName_kr": "푸마 x 아미 후드 라이트 그레이 헤더",
+    "imgUrl": "/assets/img/product/4.png",
+    "productPrice": 264000,
+    "productScore": 320,
+    "availableCoupon": false
+  },
+  {
+    "productId": 10121,
+    "productName": "(W) The North Face Sherpa Nuptse Jacket White",
+    "ProductName_kr": "(W) 노스페이스 쉐르파 눕시 자켓 화이트",
+    "imgUrl": "/assets/img/product/5.png",
+    "productPrice": 509000,
+    "productScore": 450
+  },
+  {
+    "productId": 10122,
+    "productName": "Nike x Fear of God Warm Up Pants String",
+    "ProductName_kr": "나이키 x 피어 오브 갓 웜업 팬츠 스트링",
+    "imgUrl": "/assets/img/product/6.png",
+    "productPrice": 330000,
+    "productScore": 600
+  },
+  {
+    "productId": 10123,
+    "productName": "Stussy Casentino Wool Varsity Jacket Green",
+    "ProductName_kr": "스투시 카센티노 울 바시티 자켓 그린",
+    "imgUrl": "/assets/img/product/7.png",
+    "productPrice": 520000,
+    "productScore": 170,
+    "availableCoupon": false
+  },
+  {
+    "productId": 10124,
+    "productName": "(W) Vivienne Westwood Bea Cardigan Beige",
+    "ProductName_kr": "(W) 비비안 웨스트우드 베아 가디건 베이지",
+    "imgUrl": "/assets/img/product/8.png",
+    "productPrice": 284000,
+    "productScore": 456
+  },
+  {
+    "productId": 10125,
+    "productName": "Stussy Basic Stussy Zip Hoodie Black 2022",
+    "ProductName_kr": "스투시 베이직 스투시 후드 집업 블랙 2022",
+    "imgUrl": "/assets/img/product/9.png",
+    "productPrice": 179000,
+    "productScore": 311,
+    "availableCoupon": false
+  },
+  {
+    "productId": 10126,
+    "productName": "IAB Studio Pigment Hoodie Royal Blue - 22FW",
+    "ProductName_kr": "아이앱 스튜디오 피그먼트 후드 로얄 블루 - 22FW",
+    "imgUrl": "/assets/img/product/10.png",
+    "productPrice": 272000,
+    "productScore": 358
+  },
+  {
+    "productId": 10127,
+    "productName": "AMI de Coeur Oversize Intarsia Sweater Black Red",
+    "ProductName_kr": "아미 빅 하트 로고 오버사이즈 인타르시아 스웨터 블랙 레드",
+    "imgUrl": "/assets/img/product/11.png",
+    "productPrice": 495000,
+    "productScore": 456
+  },
+  {
+    "productId": 10287,
+    "productName": "Ader Error x Zara Patchwork Oversize Knit Sweater Cream",
+    "ProductName_kr": "아더에러 x 자라 패치워크 오버사이즈 니트 스웨터 크림",
+    "imgUrl": "/assets/img/product/12.png",
+    "productPrice": 240000,
+    "productScore": 355
+  }
+]

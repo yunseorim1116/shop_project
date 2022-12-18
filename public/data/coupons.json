@@ -1,0 +1,13 @@
+[
+  {
+    "type": "rate_coupon",
+    "couponTitle": "15% 할인",
+    "discountRate": 15
+  },
+
+  {
+    "type": "amount_coupon",
+    "couponTitle": "5,000원 할인",
+    "discountAmount": 5000
+  }
+]
