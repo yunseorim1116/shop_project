@@ -47,10 +47,10 @@ const ProductItemContainer = ({ productItem }: IProps) => {
   if (typeof productItem.availableCoupon === "undefined")
     productData.availableCoupon = true;
 
-  const goToDetailPage = () => {
-    if (!productId) return;
-    navigate(`ProductsDetail/${productId}`);
-  };
+  // const goToDetailPage = () => {
+  //   if (!productId) return;
+  //   navigate(`ProductsDetail/${productId}`);
+  // };
 
   const addCartProduct = () => {
     addCartItem(productData);
@@ -77,7 +77,7 @@ const ProductItemContainer = ({ productItem }: IProps) => {
     <>
       <ModalPortal>{modalOn && <Modal text={modalText} />}</ModalPortal>
       <StyleLi>
-        <ImgWrapDiv onClick={goToDetailPage}>
+        <ImgWrapDiv>
           <ScoreNumber>{productScore}</ScoreNumber>
           <ProductImg src={`${url}${imgUrl}`} />
         </ImgWrapDiv>
