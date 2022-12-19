@@ -79,7 +79,7 @@ const ProductItemContainer = ({ productItem }: IProps) => {
       <StyleLi>
         <ImgWrapDiv>
           <ScoreNumber>{productScore}</ScoreNumber>
-          <ProductImg src={`${url}${imgUrl}`} />
+          <ProductImg src={imgUrl} />
         </ImgWrapDiv>
         <ProductName>{productName}</ProductName>
         <ProductNameKR className="product-name">{ProductName_kr}</ProductNameKR>
