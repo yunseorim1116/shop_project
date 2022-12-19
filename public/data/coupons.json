@@ -1,8 +1,8 @@
 [
   {
     "type": "rate_coupon",
-    "couponTitle": "15% 할인",
-    "discountRate": 15
+    "couponTitle": "10% 할인",
+    "discountRate": 10
   },
 
   {
